@@ -1,0 +1,267 @@
+@media (max-width: 1024px) {
+    
+    h1{
+        font-size: 48px !important;
+    }
+    h2{
+        font-size: 32px !important;
+    }
+    h3{
+        font-size: 24px !important;
+    }
+    p{
+        font-size: 18px !important;
+    }
+    span{
+        font-size: 14px !important;
+    }
+    li{
+        font-size: 18px !important;
+    }
+    #contact .contacts{
+        padding: 50px;
+    }
+    #allproducts{
+        padding: 50px;
+    }
+    #about{
+        padding: 50px 0 50px 50px;
+    }
+    .Pcontainer{
+        padding: 50px;
+    }
+    #why{
+        padding: 50px;
+    }
+    #products{
+        padding: 40px 50px;
+    }
+    .header{
+        padding: 15px 50px;
+    }
+    .left .text{
+        left: 50px;
+        width: 100%;
+    }
+    .landing_page .circle{
+        left: calc(100% - 450px);
+    }
+    footer{
+        padding: 50px 50px 20px;
+    }
+}
+@media (max-width: 840px) {
+    .landing_page .circle{
+        left: calc(100% - 340px);
+        width: 300px;
+        height: 300px;
+    }
+    .landing_page .png{
+        min-width: 400px;
+    }
+    #contact{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+    }
+    #contact .contacts{
+        width: 100%;
+    }
+    #contact iframe{
+        width: 100%;
+        height: 500px;
+    }
+    #allproducts p{
+        max-width: 100%;
+    }
+    #about{
+        flex-direction: column;
+    }
+    #about .a-left{
+        width: 100%;
+        padding-right: 50px;
+        margin-bottom: 30px;
+    }
+    #about .a-right{
+        width: 100%;
+    }
+    .right ul{
+        left: calc( 100% - 250px);
+    }
+    .hidden{
+        left: calc(100% - 80px);
+    }
+    footer .container{
+        flex-direction: column;
+    }
+    
+}
+@media (max-width: 767px) {
+    /* Hide the nav items by default */
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        width: 100%;
+        background-color: #1b203d;
+        color: #fff;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        padding: 10px 0;
+    }
+    .nav-links a:active{
+        color: #e0ad3d;
+    }
+
+    /* Display hamburger menu */
+    .hamburger {
+        display: flex;
+    }
+
+    /* Show the nav items when active */
+    .nav-links.active {
+        display: flex;
+    }
+
+    .nav-links li {
+        margin-left: 0;
+        text-align: center;
+        padding: 10px 0;
+    }
+
+    .nav-links li a {
+        font-size: 20px;
+    }
+    .landing_page .circle{
+        z-index: 1;
+        filter: brightness(70%);
+        top: calc(100% - 750px);
+    }
+    .landing_page .right{
+        width: 0% !important;
+    }
+    .landing_page .left{
+        width: 80%;
+        height: 100%;
+    }
+    .left .text{
+        top: calc(100% - 750px);
+    }
+    .landing_page .left h1{
+        font-size: 50px !important;
+        min-width: fit-content;
+    }
+    .text .btns a{
+        font-size: 14px;
+        min-width: fit-content;
+    }
+    #products a{
+        font-size: 14px;
+        min-width: fit-content;
+    }
+    #products .sub{
+        max-width: 100%;
+    }
+    #why{
+        flex-direction: column-reverse;
+    }
+    #why .w-left{
+        width: 100%;
+    }
+    .w-left img{
+        width: 100%;
+        height: 500px;
+    }
+    #why .w-right{
+        width: 100%;
+        margin-bottom: 40px;
+    }
+    #allproducts h1 i{
+        font-size: 30px;
+    }
+    h1{
+        font-size: 32px !important;
+    }
+    h2{
+        font-size: 24px !important;
+    }
+    h3{
+        font-size: 20px !important;
+    }
+    p{
+        font-size: 14px !important;
+    }
+    span{
+        font-size: 12px !important;
+    }
+    li{
+        font-size: 14px !important;
+    }
+    #contact .contacts{
+        padding: 40px;
+    }
+    #allproducts{
+        padding: 40px;
+    }
+    #about{
+        padding: 40px 0 40px 40px;
+    }
+    .Pcontainer{
+        padding: 40px;
+    }
+    #why{
+        padding: 40px;
+    }
+    #products{
+        padding: 40px;
+    }
+    .header{
+        padding: 10px 40px;
+    }
+    .left .text{
+        left: 40px;
+    }
+    footer{
+        padding: 40px 40px 15px;
+    }
+}
+
+
+@media (max-width: 500px) {
+    .landing_page .left h1{
+        font-size: 42px;
+    }
+    .right ul{
+        left: calc(50% - 100px);
+    }
+    #about .a-right img{
+        height: 350px;
+    }
+    #allproducts .card-list{
+        row-gap: 20px;
+        justify-content: space-between;
+    }
+    .card{
+        height: 400px;
+        width: 100%;
+        position: relative;
+        right: 40px;
+    }
+    .card img{
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        z-index: 1;
+        border-radius: 20px;
+        object-fit: cover;
+        object-position: bottom;
+    }
+    .card img:hover{
+        left: 40px;
+    }
+    .card .info{
+        left: 55px;
+        top: calc(100% - 50px);
+    }
+}

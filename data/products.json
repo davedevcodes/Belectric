@@ -1,0 +1,162 @@
+[
+    {
+        "name": "Elegant Crystal Chandelier",
+        "image": "./css/images/img1.jpeg",
+        "preprice": "$250",
+        "price": "$199",
+        "desc": "A stunning crystal chandelier to elevate any space.",
+        "category": "Chandeliers"
+    },
+    {
+        "name": "Modern LED Chandelier",
+        "image": "./css/images/img2.jpeg",
+        "preprice": "$180",
+        "price": "$140",
+        "desc": "Modern LED chandelier with a sleek design.",
+        "category": "Chandeliers"
+    },
+    {
+        "name": "Luxury Gold Chandelier",
+        "image": "./css/images/img3.jpeg",
+        "preprice": "$300",
+        "price": "$250",
+        "desc": "Golden chandelier with intricate detailing for a lavish look.",
+        "category": "Chandeliers"
+    },
+    {
+        "name": "Vintage Hanging Lamp",
+        "image": "./css/images/img4.jpeg",
+        "preprice": "$90",
+        "price": "$75",
+        "desc": "Classic vintage lamp perfect for warm and cozy lighting.",
+        "category": "Lamps"
+    },
+    {
+        "name": "Minimalist Desk Lamp",
+        "image": "./css/images/img5.jpeg",
+        "preprice": "$60",
+        "price": "$45",
+        "desc": "Simple yet elegant desk lamp for focused lighting.",
+        "category": "Lamps"
+    },
+    {
+        "name": "Smart Touch Lamp",
+        "image": "./css/images/img6.jpeg",
+        "preprice": "$120",
+        "price": "$95",
+        "desc": "A modern touch-sensitive lamp with adjustable brightness.",
+        "category": "Lamps"
+    },
+    {
+        "name": "Abstract Art Frame",
+        "image": "./css/images/img7.jpeg",
+        "preprice": "$80",
+        "price": "$60",
+        "desc": "A bold and colorful abstract frame to enhance any room.",
+        "category": "Frames"
+    },
+    {
+        "name": "Black & White Cityscape Frame",
+        "image": "./css/images/img8.jpeg",
+        "preprice": "$95",
+        "price": "$75",
+        "desc": "Elegant black and white city view frame for urban aesthetics.",
+        "category": "Frames"
+    },
+    {
+        "name": "Nature-Inspired Wall Art",
+        "image": "./css/images/img9.jpeg",
+        "preprice": "$110",
+        "price": "$85",
+        "desc": "Beautiful nature scenery painting to bring tranquility indoors.",
+        "category": "Frames"
+    },
+    {
+        "name": "Classic White Wall Socket",
+        "image": "./css/images/img10.jpeg",
+        "preprice": "$20",
+        "price": "$15",
+        "desc": "Durable and sleek white wall socket for any interior.",
+        "category": "Sockets"
+    },
+    {
+        "name": "Smart WiFi Socket",
+        "image": "./css/images/img11.jpeg",
+        "preprice": "$40",
+        "price": "$30",
+        "desc": "Control your devices remotely with this smart socket.",
+        "category": "Sockets"
+    },
+    {
+        "name": "Double USB Wall Socket",
+        "image": "./css/images/img12.jpeg",
+        "preprice": "$35",
+        "price": "$28",
+        "desc": "A convenient socket with USB ports for fast charging.",
+        "category": "Sockets"
+    },
+    {
+        "name": "Luxury Velvet Curtain",
+        "image": "./css/images/img13.jpeg",
+        "preprice": "$200",
+        "price": "$160",
+        "desc": "Elegant velvet curtain that adds a luxurious touch.",
+        "category": "decor"
+    },
+    {
+        "name": "Gold Decorative Vase",
+        "image": "./css/images/img14.jpeg",
+        "preprice": "$90",
+        "price": "$70",
+        "desc": "A gold vase that complements any stylish decor.",
+        "category": "decor"
+    },
+    {
+        "name": "Wall Mirror with LED",
+        "image": "./css/images/img15.jpeg",
+        "preprice": "$180",
+        "price": "$140",
+        "desc": "Modern LED wall mirror for a touch of elegance.",
+        "category": "decor"
+    },
+    {
+        "name": "Rustic Wooden Chandelier",
+        "image": "./css/images/img16.jpeg",
+        "preprice": "$220",
+        "price": "$180",
+        "desc": "A wooden chandelier that brings warmth and character.",
+        "category": "Chandeliers"
+    },
+    {
+        "name": "Glass Pendant Lamp",
+        "image": "./css/images/img17.jpeg",
+        "preprice": "$100",
+        "price": "$80",
+        "desc": "A simple yet stylish pendant lamp for any space.",
+        "category": "Lamps"
+    },
+    {
+        "name": "Sunset Glow Wall Art",
+        "image": "./css/images/img18.jpeg",
+        "preprice": "$85",
+        "price": "$65",
+        "desc": "Beautiful sunset-themed wall art for a cozy atmosphere.",
+        "category": "Frames"
+    },
+    {
+        "name": "Triple Power Socket",
+        "image": "./css/images/img19.jpeg",
+        "preprice": "$50",
+        "price": "$40",
+        "desc": "A three-in-one power socket for efficiency and convenience.",
+        "category": "Sockets"
+    },
+    {
+        "name": "Minimalist Clock Decor",
+        "image": "./css/images/img20.jpeg",
+        "preprice": "$120",
+        "price": "$95",
+        "desc": "A sleek and modern clock to enhance your home decor.",
+        "category": "decor"
+    }
+]
