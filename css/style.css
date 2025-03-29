@@ -297,6 +297,16 @@ ul .fcard img:hover{
     -webkit-backdrop-filter: blur(69px);
     color: #fff;
 }
+.fcard .info h4{
+    font-weight: 500;
+    margin-bottom: 5px;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.fcard .info span{
+    font-size: 14px;
+    color: #ccc;
+}
 
 
 #why{
