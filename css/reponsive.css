@@ -136,7 +136,11 @@
     .landing_page .circle{
         z-index: 1;
         filter: brightness(70%);
-        top: calc(100% - 750px);
+        top: calc(100% - 600px);
+    }
+    .left .text{
+        left: 40px;
+        top: calc(100% - 600px);
     }
     .landing_page .right{
         width: 0% !important;
@@ -146,7 +150,7 @@
         height: 100%;
     }
     .left .text{
-        top: calc(100% - 750px);
+        display: 
     }
     .landing_page .left h1{
         font-size: 50px !important;
