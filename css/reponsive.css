@@ -135,7 +135,7 @@
     }
     .landing_page .circle{
         z-index: 1;
-        filter: brightness(70%);
+        filter: brightness(90%);
         top: calc(100% - 600px);
     }
     .left .text{
