@@ -242,4 +242,31 @@
     #about .a-right img{
         height: 350px;
     }
+    #contact .contacts{
+        padding: 20px;
+    }
+    #allproducts{
+        padding: 20px;
+    }
+    #about{
+        padding: 20px 0 20px 20px;
+    }
+    .Pcontainer{
+        padding: 20px;
+    }
+    #why{
+        padding: 20px;
+    }
+    #products{
+        padding: 20px;
+    }
+    .header{
+        padding: 10px 20px;
+    }
+    .left .text{
+        left: 20px;
+    }
+    footer{
+        padding: 20px 20px 15px;
+    }
 }
